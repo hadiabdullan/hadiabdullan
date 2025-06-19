@@ -1,10 +1,8 @@
 # Hadi Abdulla N
 
-### Flutter Developer | Mobile Application Engineer
+### Senior Flutter Developer | Mobile-First Innovation & Leadership | Driving Tech & Community Impact
 
-A seasoned Flutter Developer with over 5 years of experience in architecting and delivering high-quality, cross-platform mobile applications. Expert in Dart, Flutter widgets, and various state management solutions like BLoC and Provider. Proficient in building responsive UI/UX designs, integrating RESTful APIs, and utilizing Firebase services (Auth, FCM, Firestore). Experienced in extending Flutter's capabilities through native extensions via method channels (Kotlin/Swift).
-
-Strong background in Agile/Scrum methodologies, CI/CD pipelines, and Test-Driven Development (TDD), with a focus on performance optimization.
+A seasoned Flutter Lead Developer with over 5 years of experience, I lead the architecture and delivery of high-quality, cross-platform mobile applications. I guide teams in leveraging Dart, Flutter widgets, and advanced state management solutions (BLoC, Provider) to build robust UIs. My expertise includes overseeing the integration of RESTful APIs, Firebase services (Auth, FCM, Firestore), and native method channels (Kotlin/Swift). I am responsible for driving Agile/Scrum methodologies, CI/CD pipelines, and Test-Driven Development (TDD), consistently optimizing for performance and scalability.
 
 ---
 
